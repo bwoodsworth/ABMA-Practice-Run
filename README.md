@@ -11,7 +11,7 @@ Agent-based modeling (ABM) is a simulation technique widely used across social a
 # WHAT TO EXPECT
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
-Table of Contents [PDF Link] () [GitHub Link] ()
+Table of Contents [PDF Link] (https://santafe.edu/research/sfi-press) [GitHub Link] (https://santafe.edu/research/sfi-press)
 **0: The art and science of building societies in silico**
 
 **Part 1: Learning to walk** [PDF Link] (https://santafe.edu/) [GitHub Link] (https://santafe.edu/research/sfi-press)
