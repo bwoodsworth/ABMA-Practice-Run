@@ -4,18 +4,20 @@ First attempt at making a website to mess around with.
 Let's start from scratch.
 
 
-# AGENT-BASED MODELING FOR ARCHAEOLOGY
+## AGENT-BASED MODELING FOR ARCHAEOLOGY
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.
 [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021)
 
-# WHAT TO EXPECT
+## WHAT TO EXPECT
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
-Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Link](https://santafe.edu/research/sfi-press)
+### **Table of Contents** 
+[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-**0: The art and science of building societies in silico**
+### **0: The art and science of building societies in silico**
+[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-**Part 1: Learning to walk** 
+### **Part 1: Learning to walk** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *1.1:* The foundational steps of building an agent-based model
@@ -24,7 +26,7 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *1.3:* Reaping the rewards: addressing archaeological questions
 
-**Part 2: Learning to run** 
+### **Part 2: Learning to run** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *2.1:* Mobility algorithms: How does movement leave its mark?
@@ -33,7 +35,7 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
 
-**Part 3: Learning to fly** 
+### **Part 3: Learning to fly** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *3.1:* Modeling with spatial data: Bringing the GIS world to ABM
@@ -42,10 +44,10 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *3.3:* Data analysis: Leveraging data science to explore ABM results
 
-**4.0: Good models move science forward** 
+### **4.0: Good models move science forward** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-# AUTHORS
+## AUTHORS
 
 **STEFANI CRABTREE**
 Stefani is a computational archaeologist, field archaeologist, complexity scientist and ethnographer. In addition to being a Complexity Postdoctoral Fellow at the Santa Fe Institute she is currently a fellow of the Center for Research and Interdisciplinarity in Paris, France, holds a position at Utah State University in the Department for Environment and Society, and is a research fellow at Crow Canyon Archaeological Center. Prior to joining SFI, she was a post-doctoral scholar in the Human Environmental Dynamics laboratory at the Pennsylvania State University. In 2016 she was awarded two PhDs, one in anthropology at Washington State University under the direction of Tim Kohler, the other at the Maison des Sciences de l’Homme et Environnement at the Université de Franche-Comté under the co-direction of Laure Nuninger and François Favory. Stefani’s interests lie in agent-based modeling, food web modeling, and social network analysis. Her dissertation focused on both the Ancestral Pueblo U.S. Southwest and the Bronze Age to Iron Age transition in southern France. She additionally co-directs a project in Northern Mongolia with Dr. Julia Clark.
