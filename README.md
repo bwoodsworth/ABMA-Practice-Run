@@ -6,16 +6,16 @@ Let's start from scratch.
 
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.
-([SFI Press]) (https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021)
+[SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021)
 
 # WHAT TO EXPECT
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
-Table of Contents [PDF Link] (https://santafe.edu/research/sfi-press) [GitHub Link] (https://santafe.edu/research/sfi-press)
+Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Link](https://santafe.edu/research/sfi-press)
 
 **0: The art and science of building societies in silico**
 
-**Part 1: Learning to walk** [PDF Link] (https://santafe.edu/) [GitHub Link] (https://santafe.edu/research/sfi-press)
+**Part 1: Learning to walk** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *1.1:* The foundational steps of building an agent-based model
 
@@ -23,7 +23,7 @@ Table of Contents [PDF Link] (https://santafe.edu/research/sfi-press) [GitHub Li
 
 *1.3:* Reaping the rewards: addressing archaeological questions
 
-**Part 2: Learning to run** [PDF Link] (https://santafe.edu/) [GitHub Link] (https://santafe.edu/research/sfi-press)
+**Part 2: Learning to run** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *2.1:* Mobility algorithms: How does movement leave its mark?
 
@@ -31,7 +31,7 @@ Table of Contents [PDF Link] (https://santafe.edu/research/sfi-press) [GitHub Li
 
 *2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
 
-**Part 3: Learning to fly** [PDF Link] (https://santafe.edu/) [GitHub Link] (https://santafe.edu/research/sfi-press)
+**Part 3: Learning to fly** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *3.1:* Modeling with spatial data: Bringing the GIS world to ABM
 
@@ -39,7 +39,7 @@ Table of Contents [PDF Link] (https://santafe.edu/research/sfi-press) [GitHub Li
 
 *3.3:* Data analysis: Leveraging data science to explore ABM results
 
-**4.0: Good models move science forward** [PDF Link] (https://santafe.edu/) [GitHub Link] (https://santafe.edu/research/sfi-press)
+**4.0: Good models move science forward** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
 
 # AUTHORS
 
