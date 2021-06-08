@@ -15,7 +15,8 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 **0: The art and science of building societies in silico**
 
-**Part 1: Learning to walk** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
+**Part 1: Learning to walk** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *1.1:* The foundational steps of building an agent-based model
 
@@ -23,7 +24,8 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *1.3:* Reaping the rewards: addressing archaeological questions
 
-**Part 2: Learning to run** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
+**Part 2: Learning to run** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *2.1:* Mobility algorithms: How does movement leave its mark?
 
@@ -31,7 +33,8 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
 
-**Part 3: Learning to fly** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
+**Part 3: Learning to fly** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 *3.1:* Modeling with spatial data: Bringing the GIS world to ABM
 
@@ -39,7 +42,8 @@ Table of Contents [PDF Link](https://santafe.edu/research/sfi-press) [GitHub Lin
 
 *3.3:* Data analysis: Leveraging data science to explore ABM results
 
-**4.0: Good models move science forward** [PDF Link](https://santafe.edu/) [GitHub Link](https://santafe.edu/research/sfi-press)
+**4.0: Good models move science forward** 
+[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 # AUTHORS
 
