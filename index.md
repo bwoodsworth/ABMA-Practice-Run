@@ -163,4 +163,4 @@ Chapter One
     <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 3 </a> </li>
     <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 4 </a> </li>
   <ol>
-</details>
+ </details>
