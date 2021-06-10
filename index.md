@@ -152,12 +152,22 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
   <summary>Chapter One</summary>
   
   Putting regular text here to see how it renders.
-  ``
-  ## 1.1 xxxx
-  ## 1.2 xxxx
-  1.3 xxxxx
+  
+  ## 1.1 Description.
+  ## 1.2 Description.
+  1.3 Description.
   1.4 [practice](https://www.cnn.com/2021/06/10/us/lgbtq-pride-house-wisconsin-trnd/index.html)
-  ``
+  
 </details>
 
-
+<details>
+  <summary>Additional Reading</summary>
+  
+  Check out the following links, provided by the authors, for some additional reading.
+  
+  1. [Link 1](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+  2. [Link 2](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+  3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+  4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+  
+</details>
