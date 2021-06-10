@@ -158,9 +158,9 @@ Chapter One
        
   <p> Investigate the following links, provided by the authors, for some additional reading. </p>
   
-  1. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 1 </a> 
-  2. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 2 </a>
-  3. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 3 </a>
-  4. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 4 </a>
+  1. <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 1 </a> 
+  2. <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 2 </a>
+  3. <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 3 </a>
+  4. <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 4 </a>
   
 </details>
