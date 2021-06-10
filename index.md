@@ -22,10 +22,13 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
 
 
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
+
+![image](https://files.slack.com/files-pri/T9UGY1EM8-F0258NNMU6L/abma_cover_pb_proof_060721.png)
+
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
   
 Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more. 
-Visit [Amazon] (https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall_2020/Fellows_pb/Iza_Romanowska_pp.png) to order your copy today.
+Visit [Amazon](https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall_2020/Fellows_pb/Iza_Romanowska_pp.png) to order your copy today.
 
 
 ## CONTENTS
@@ -33,7 +36,12 @@ Visit [Amazon] (https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
 ### **Table of Contents** 
+
+![image](https://files.slack.com/files-pri/T9UGY1EM8-F024R3YBJQL/3_chapter_1_ucan30a-29b.png)
+
 [PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
+
+![image](https://files.slack.com/files-pri/T9UGY1EM8-F02445W3Y31/2_intro__99b_100a.png)
 
 ### **0: The art and science of building societies in silico**
 [PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
