@@ -1,28 +1,30 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
-
-Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
   
-Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more. 
-
-Visit [Amazon](https://www.amazon.com) to order your copy today.
+Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more and get your PDF or physical copy today. 
 
 
 ## CONTENTS
 
 Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
 ### **Table of Contents** 
 
-![image](https://www.facsimilefinder.com/articles/wp-content/uploads/2019/09/panoramica-1.jpg)
+Description here (probably the actual table of contents).
 
 [PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
 
-![image](https://www.facsimilefinder.com/articles/wp-content/uploads/2019/09/menazilname-facsimile-edition-02-750x500.jpg)
+
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015118-H06IFY0GXLTC9AS7F91U/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/2Intro+trees+at+top+-+99B+100A.png?format=2500w)
 
 ### **0: The art and science of building societies in silico**
 [PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
+
+Short description here.
+
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354014892-ITALZQ8YD7DKXNVQFMDL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/3Chapter1-2_Ucan.png?format=2500w)
 
 ### **Part 1: Learning to walk** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
@@ -39,6 +41,8 @@ Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/ps
 
 Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015498-8DYV0LU3OLEHBU7T3M9B/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/4Chapter3_Bassiz+89A+.png?format=2500w)
+
 ### **Part 2: Learning to run** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
@@ -53,6 +57,8 @@ Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/ps
 *2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
 
 Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
 
 ### **Part 3: Learning to fly** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
@@ -69,15 +75,21 @@ Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/ps
 
 Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016095-NT2EFWWCNU4Y7QNT28ZQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/6Chapter5_Galata-Istanbul.png?format=2500w)
+
 ### **4.0: Good models move science forward** 
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016530-NX5IEOUQC4GLEVRGTTNL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/7Chapter6_Karanicay30B.png?format=2500w)
+
 ## APPENDIX
 [PDF Link](https://santafe.edu/), [Teaching Materials](www.npr.org)
 
 A brief description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
 
 ## ADDITIONAL ONLINE RESOURCES
 A brief description here. Assuming a list of links similar to what follows.
@@ -136,5 +148,16 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
  </details>
 ```
 
+<details>
+  <summary>Chapter One</summary>
+  
+  Putting regular text here to see how it renders.
+  ``
+  ## 1.1 xxxx
+  ## 1.2 xxxx
+  1.3 xxxxx
+  1.4 [practice](https://www.cnn.com/2021/06/10/us/lgbtq-pride-house-wisconsin-trnd/index.html)
+  ``
+</details>
 
 
