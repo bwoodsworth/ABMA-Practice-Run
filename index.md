@@ -43,6 +43,7 @@ Below you can find an overview of the book. The PDF and GitHub links next to eac
 [PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
 
 ## AUTHORS
+```
 <details>
   <summary>Click to expand!</summary>
   
@@ -52,7 +53,7 @@ Below you can find an overview of the book. The PDF and GitHub links next to eac
     * With some   
     * Sub bullets   
  </details>
-
+```
 
 ## AUTHORS
 
