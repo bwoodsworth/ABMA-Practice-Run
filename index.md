@@ -120,21 +120,7 @@ Specialties:  Agent Based Modelling, Simulation, Data Analysis, Complexity Scien
 
 Colin D. Wren is an archaeologist who joined the Department of Anthropology at UCCS in 2015. His training has included a mix of recent northeastern North America (sub-arctic Quebec, 400-4500 years ago) and much older African and Western European archaeology (up to 1.8 million years ago). He has published on various case studies examining the interactions between human society and the environments at local and much broader continental scales. Dr. Wren is interested in reconstructing past mobility behavior, the evolution of complex cognition, human-environment interactions, agent-based modeling, GIS-based landscape archaeology, and more specifically, the role of human perception of the environment in mobility and dispersal.
 
-## AUTHORS
-<details>
-  <summary>This is a dropdown!</summary>
-  
-  Putting regular text here to see how it renders.
-  ``
-  ## Heading     
-  1. A numbered    
-  2. list     
-    * With some      
-    * Sub bullets 
-  ``
-</details>
-
-## AUTHORS
+## CODE BLOCK
 ```
 <details>
   <summary>This is a dropdown!</summary>
@@ -147,33 +133,6 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
     * Sub bullets   
  </details>
 ```
-
-<details>
-  <summary>Chapter One</summary>
-  
-  Putting regular text here to see how it renders.
-  
-  ## 1.1 Description.
-  
-  ## 1.2 Description.
-  
-  1.3 Description.      
-  
-  1.4 [practice](https://www.cnn.com/2021/06/10/us/lgbtq-pride-house-wisconsin-trnd/index.html)
-  
-</details>
-
-<details>
-  <summary>Additional Reading</summary>
-       
-  Investigate the following links, provided by the authors, for some additional reading.
-  
-  1. [Link 1](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-  2. [Link 2](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-  3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-  4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-  
-</details>
 
 # NEW COLLAPSIBLE SECTION
 <details>
@@ -192,4 +151,16 @@ Chapter One
   <i> Italics here. This is HTML. </i>
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> PDF </a>
 <p> Putting regular text here to see how it renders. </p>
+</details>
+
+<details>
+  <summary>Additional Reading</summary>
+       
+  <p> Investigate the following links, provided by the authors, for some additional reading. </p>
+  
+  1. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 1 </a> 
+  2. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 2 </a>
+  3. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 3 </a>
+  4. <href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 4 </a>
+  
 </details>
