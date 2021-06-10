@@ -1,26 +1,3 @@
-## AUTHORS
-
-**STEFANI CRABTREE**
-
-![image](https://qcnr.usu.edu/directory-images/crabtree_stefani.png)
-
-Stefani is a computational archaeologist, field archaeologist, complexity scientist and ethnographer. In addition to being a Complexity Postdoctoral Fellow at the Santa Fe Institute she is currently a fellow of the Center for Research and Interdisciplinarity in Paris, France, holds a position at Utah State University in the Department for Environment and Society, and is a research fellow at Crow Canyon Archaeological Center. Prior to joining SFI, she was a post-doctoral scholar in the Human Environmental Dynamics laboratory at the Pennsylvania State University.
-
-**IZA ROMANOWSKA**
-
-![image](https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall_2020/Fellows_pb/Iza_Romanowska_pp.png)
-
-AIAS-COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus University, Denmark, Previously: Senior Researcher at the Barcelona Supercomputing Center
-Iza works within the broad subject of Complexity Science and Archaeological Computing. In her research she uses simulation techniques, especially agent-based modelling, to investigate past processes such as the first human dispersal almost 2 million years ago and the development of the extensive trade networks in the Roman Empire.
-Specialties:  Agent Based Modelling, Simulation, Data Analysis, Complexity Science,  Palaeolithic Archaeology, Human Origins, Lithic Analysis, Roman Trade
-
-**COLIN D. WREN**
-
-![image](https://anthropology.uccs.edu/sites/g/files/kjihxj2236/files/2021-02/colin-profile-556.jpg)
-
-Colin D. Wren is an archaeologist who joined the Department of Anthropology at UCCS in 2015. His training has included a mix of recent northeastern North America (sub-arctic Quebec, 400-4500 years ago) and much older African and Western European archaeology (up to 1.8 million years ago). He has published on various case studies examining the interactions between human society and the environments at local and much broader continental scales. Dr. Wren is interested in reconstructing past mobility behavior, the evolution of complex cognition, human-environment interactions, agent-based modeling, GIS-based landscape archaeology, and more specifically, the role of human perception of the environment in mobility and dispersal.
-
-
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
 ![image](https://www.facsimilefinder.com/articles/wp-content/uploads/2019/09/menazilname-facsimile-edition-03-750x500.jpg)
@@ -109,6 +86,27 @@ A brief description here. Assuming a list of links similar to what follows.
 3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
+## AUTHORS
+
+**STEFANI CRABTREE**
+
+![image](https://qcnr.usu.edu/directory-images/crabtree_stefani.png)
+
+Stefani is a computational archaeologist, field archaeologist, complexity scientist and ethnographer. In addition to being a Complexity Postdoctoral Fellow at the Santa Fe Institute she is currently a fellow of the Center for Research and Interdisciplinarity in Paris, France, holds a position at Utah State University in the Department for Environment and Society, and is a research fellow at Crow Canyon Archaeological Center. Prior to joining SFI, she was a post-doctoral scholar in the Human Environmental Dynamics laboratory at the Pennsylvania State University.
+
+**IZA ROMANOWSKA**
+
+![image](https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall_2020/Fellows_pb/Iza_Romanowska_pp.png)
+
+AIAS-COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus University, Denmark, Previously: Senior Researcher at the Barcelona Supercomputing Center
+Iza works within the broad subject of Complexity Science and Archaeological Computing. In her research she uses simulation techniques, especially agent-based modelling, to investigate past processes such as the first human dispersal almost 2 million years ago and the development of the extensive trade networks in the Roman Empire.
+Specialties:  Agent Based Modelling, Simulation, Data Analysis, Complexity Science,  Palaeolithic Archaeology, Human Origins, Lithic Analysis, Roman Trade
+
+**COLIN D. WREN**
+
+![image](https://anthropology.uccs.edu/sites/g/files/kjihxj2236/files/2021-02/colin-profile-556.jpg)
+
+Colin D. Wren is an archaeologist who joined the Department of Anthropology at UCCS in 2015. His training has included a mix of recent northeastern North America (sub-arctic Quebec, 400-4500 years ago) and much older African and Western European archaeology (up to 1.8 million years ago). He has published on various case studies examining the interactions between human society and the environments at local and much broader continental scales. Dr. Wren is interested in reconstructing past mobility behavior, the evolution of complex cognition, human-environment interactions, agent-based modeling, GIS-based landscape archaeology, and more specifically, the role of human perception of the environment in mobility and dispersal.
 
 ## AUTHORS
 <details>
