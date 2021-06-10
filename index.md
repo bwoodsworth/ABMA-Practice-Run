@@ -46,11 +46,11 @@ Below you can find an overview of the book. The PDF and GitHub links next to eac
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-    * With some
-    * Sub bullets
+  ## Heading  
+  1. A numbered   
+  2. list    
+    * With some   
+    * Sub bullets   
  </details>
 
 
