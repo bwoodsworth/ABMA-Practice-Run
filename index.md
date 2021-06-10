@@ -1,6 +1,6 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
-![image](https://www.facsimilefinder.com/articles/wp-content/uploads/2019/09/menazilname-facsimile-edition-03-750x500.jpg)
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
 
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
   
