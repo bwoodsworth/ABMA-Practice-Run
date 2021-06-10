@@ -23,7 +23,7 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
 
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
-![image](https://files.slack.com/files-pri/T9UGY1EM8-F0258NNMU6L/abma_cover_pb_proof_060721.png)
+![image](https://www.facsimilefinder.com/articles/wp-content/uploads/2019/09/menazilname-facsimile-edition-03-750x500.jpg)
 
 Agent-based modeling (ABM) is a simulation technique widely used across social and life sciences. Recently it has made substantial gains in the field of archaeology. However, while the use of other digital methods has been increasing in general, the technical aspect of ABM methodology remains a significant obstacle for a wider adoption among academic and commercial archaeologists.  
   
