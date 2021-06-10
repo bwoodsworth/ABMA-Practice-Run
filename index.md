@@ -174,3 +174,22 @@ Colin D. Wren is an archaeologist who joined the Department of Anthropology at U
   4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
   
 </details>
+
+# NEW COLLAPSIBLE SECTION
+<details>
+<summary>
+<i>Like this? </i>
+<a href="http://www.ironspider.ca/format_text/fontstyles.htm">
+Useful Source</a>
+</summary>
+<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
+</details>
+
+<details>
+<summary>
+Chapter One
+</summary>
+  <i> Italics here. This is HTML. </i>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> PDF </a>
+<p> Putting regular text here to see how it renders. </p>
+</details>
