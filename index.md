@@ -8,7 +8,7 @@
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
 *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
 
-[View Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
 
 
 
@@ -17,17 +17,17 @@
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
 *• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 ### Chapter 2: Trading up to Complex Models of Economic Interaction
 *• Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 ### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
 *• Tutorial in advanced NetLogo: complex structures • Definitions of parametrization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code?*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 
@@ -37,19 +37,19 @@
 ### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
 *• Algorithm zoo: pedestrian movement, e.g., random walk • Algorithm zoo: group migrations & population dispersals • Simulation scales • Types of validation • What is equifinality?*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ### Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? 
 *• Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
 *• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
 
-[View Chapter as PDF](https://www.npr.org/) [View Chapter Code Repo on GitHub](https://www.npr.org/) [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
@@ -58,37 +58,63 @@
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
 *• Types of spatial data • Tutorial on how to handle GIS data in NetLogo• How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
 
-[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/) [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ### Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
 *• Theory to data modeling spectrum • What is relational data? • Tutorial on NetLogo’s network extension • Fundamentals of network science • How to test the code?*
 
-[View Chapter as PDF](https://www.npr.org/) [View Chapter Code Repo on GitHub](https://www.npr.org/) [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ### Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
 *• The principles of experiment design • Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
 
-[View Chapter as PDF](https://www.npr.org/) [View Chapter Code Repo on GitHub](https://www.npr.org/) [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w)
 
 ## Conclusion
-[View Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w)
 
 ## Appendix
-[View Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
 
 ### [Entire Book (PDF)](https://www.npr.org/)
 
-### [Resources](https://www.npr.org/)
+### [Additional Resources](https://www.npr.org/)
 ### [Bibliography](https://www.npr.org/)
 ### [About the Authors](https://www.npr.org/)
+<details>
+<summary>
+Stefani Crabtree
+</summary>
+  <i> INSERT IMAGE. </i>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+<p> Can we do wrapped text around an image? </p>
+</details>
+
+<details>
+<summary>
+Iza Romanowska
+</summary>
+  <i> INSERT IMAGE. </i>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+<p> Can we do wrapped text around an image? </p>
+</details>
+
+<details>
+<summary>
+Colin D. Wren
+</summary>
+  <i> INSERT IMAGE. </i>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+<p> Can we do wrapped text around an image? </p>
+</details>
 ### [To Order Book](https://www.npr.org/)
       
        
