@@ -2,7 +2,7 @@
 
 [Get PDF of Book](https://www.npr.org/)    [Order the Book](https://www.npr.org/)
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w) 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017506-758PD0BD4OWX6M4FQROQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/x10+Chapter9+Khoy++26B.png?format=2500w) 
 
 ## CONTENTS
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
@@ -31,7 +31,7 @@
 
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015118-H06IFY0GXLTC9AS7F91U/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/2Intro+trees+at+top+-+99B+100A.png?format=2500w)
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
 
 ## Part II: LEARNING TO RUN
 ### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
@@ -52,7 +52,7 @@
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354014892-ITALZQ8YD7DKXNVQFMDL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/3Chapter1-2_Ucan.png?format=2500w)
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
 
 ## Part III: LEARNING TO FLY
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
@@ -79,17 +79,17 @@
 [View Chapter as PDF](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w)
 
 ## Appendix
 [View Chapter as PDF](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-### Entire Book (PDF)
+### [Entire Book (PDF)](https://www.npr.org/)
 
-### Resources
-### Bibliography
-### About the Authors
-### To Order Book
+### [Resources](https://www.npr.org/)
+### [Bibliography](https://www.npr.org/)
+### [About the Authors](https://www.npr.org/)
+### [To Order Book](https://www.npr.org/)
       
        
         
