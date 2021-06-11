@@ -6,7 +6,7 @@
 
 ## CONTENTS
 ## INTRODUCTION: The Art & Science of Building Societies in Silico
-*• Why simulation? • Why agent-based modeling? • What is complexityscience? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
+*• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
 
 [View Chapter as PDF](https://www.npr.org/)    [Back to Top](https://www.npr.org/)
 
@@ -15,7 +15,7 @@
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
 ## PART 1:  LEARNING TO WALK
 ## Chapter 1: The Foundational Steps of Building an Agent-Based Model
-*• Tutorial in basic • NetLogo: agents, procedures and the interface • Definitions of modelling,simulation, algorithm • What is pseudocode?• Model documentation*
+*• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
@@ -25,7 +25,7 @@
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 ## Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
-*• Tutorial in advanced NetLogo: complex structures • Definitions ofparametrization, artificial data, validation, equifinality • Simulatingarchaeological record & validation against data • How to write efficient code?*
+*• Tutorial in advanced NetLogo: complex structures • Definitions of parametrization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code?*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
@@ -47,7 +47,7 @@
 
 
 ## Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
-*• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fussion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
+*• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
@@ -68,7 +68,7 @@
 
 
 ## Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
-*• The principles of experiment design •Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
+*• The principles of experiment design • Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
