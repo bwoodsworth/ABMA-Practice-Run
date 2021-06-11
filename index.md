@@ -84,15 +84,15 @@
 ## Appendix
 [View Chapter as PDF](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-# Entire Book (PDF)
+### Entire Book (PDF)
 
-# Resources
-# Bibliography
-# About the Authors
-# To Order Book
-
-
-
+### Resources
+### Bibliography
+### About the Authors
+### To Order Book
+      
+       
+        
 # Extra code notes below:
 
 ## ADDITIONAL ONLINE RESOURCES
