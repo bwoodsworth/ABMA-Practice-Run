@@ -93,8 +93,11 @@
 <summary>
 Stefani Crabtree
 </summary>
+  
   <i> INSERT IMAGE. </i>
+  
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+  
 <p> Can we do wrapped text around an image? </p>
 </details>
 
@@ -102,8 +105,11 @@ Stefani Crabtree
 <summary>
 Iza Romanowska
 </summary>
+  
   <i> INSERT IMAGE. </i>
+  
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+  
 <p> Can we do wrapped text around an image? </p>
 </details>
 
@@ -111,8 +117,11 @@ Iza Romanowska
 <summary>
 Colin D. Wren
 </summary>
+  
   <i> INSERT IMAGE. </i>
+  
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+  
 <p> Can we do wrapped text around an image? </p>
 </details>
 
