@@ -40,7 +40,7 @@
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-### Chapter 5: Exchange Algorithms: How Do People Trade in Goods,Ideas, and Pathogens? 
+### Chapter 5: Exchange Algorithms: How Do People Trade in Goods, Ideas, and Pathogens? 
 *• Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
