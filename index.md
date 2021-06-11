@@ -5,7 +5,7 @@
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w) 
 
 ## CONTENTS
-## INTRODUCTION: The Art & Science of Building Societies in Silico
+### INTRODUCTION: The Art & Science of Building Societies in Silico
 *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
 
 [View Chapter as PDF](https://www.npr.org/)    [Back to Top](https://www.npr.org/)
@@ -14,17 +14,17 @@
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
 ## PART 1:  LEARNING TO WALK
-## Chapter 1: The Foundational Steps of Building an Agent-Based Model
+### Chapter 1: The Foundational Steps of Building an Agent-Based Model
 *• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-## Chapter 2: Trading up to Complex Models of Economic Interaction
+### Chapter 2: Trading up to Complex Models of Economic Interaction
 *• Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-## Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
+### Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
 *• Tutorial in advanced NetLogo: complex structures • Definitions of parametrization, artificial data, validation, equifinality • Simulating archaeological record & validation against data • How to write efficient code?*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
@@ -34,19 +34,19 @@
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015118-H06IFY0GXLTC9AS7F91U/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/2Intro+trees+at+top+-+99B+100A.png?format=2500w)
 
 ## Part II: LEARNING TO RUN
-## Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
+### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
 *• Algorithm zoo: pedestrian movement, e.g., random walk • Algorithm zoo: group migrations & population dispersals • Simulation scales • Types of validation • What is equifinality?*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-## Chapter 5: Exchange Algorithms: How Do People Trade in Goods,Ideas, and Pathogens? 
+### Chapter 5: Exchange Algorithms: How Do People Trade in Goods,Ideas, and Pathogens? 
 *• Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-## Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
+### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
 *• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fusion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
@@ -55,19 +55,19 @@
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354014892-ITALZQ8YD7DKXNVQFMDL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/3Chapter1-2_Ucan.png?format=2500w)
 
 ## Part III: LEARNING TO FLY
-## Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
+### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
 *• Types of spatial data • Tutorial on how to handle GIS data in NetLogo• How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-## Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
+### Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
 *• Theory to data modeling spectrum • What is relational data? • Tutorial on NetLogo’s network extension • Fundamentals of network science • How to test the code?*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
 
-## Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
+### Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
 *• The principles of experiment design • Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
 
 [View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
