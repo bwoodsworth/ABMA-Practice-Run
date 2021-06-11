@@ -1,95 +1,89 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
-  
-Visit [SFI Press](https://www.sfipress.org/books-coming-soon/agent-based-modeling-for-archaeology-social-science-coming-in-2021) to learn more and get your PDF or physical copy today. 
+[Get PDF of Book](https://www.npr.org/)    [Order the Book](https://www.npr.org/)
 
+![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w) 
 
 ## CONTENTS
+## INTRODUCTION: The Art & Science of Building Societies in Silico
+*• Why simulation? • Why agent-based modeling? • What is complexityscience? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
+[View Chapter as PDF](https://www.npr.org/)    [Back to Top](https://www.npr.org/)
 
-Below you can find an overview of the book. The PDF and GitHub links next to each chapter heading will take you directly to a downloadable PDF of the chapter and/or the freely-available modeling code in GitHub published by the authors.
+
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
-### **Table of Contents** 
+## PART 1:  LEARNING TO WALK
+## Chapter 1: The Foundational Steps of Building an Agent-Based Model
+*• Tutorial in basic • NetLogo: agents, procedures and the interface • Definitions of modelling,simulation, algorithm • What is pseudocode?• Model documentation*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-Description here (probably the actual table of contents).
+## Chapter 2: Trading up to Complex Models of Economic Interaction
+*• Tutorial in intermediate NetLogo: variables, loops, breeds, reporters, lists • How to build complex models? • Definitions of scale, entity, stochasticity • Principles of code development & debugging techniques*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
+## Chapter 3: Reaping the Rewards: Addressing Archaeological Questions
+*• Tutorial in advanced NetLogo: complex structures • Definitions ofparametrization, artificial data, validation, equifinality • Simulatingarchaeological record & validation against data • How to write efficientcode?*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015118-H06IFY0GXLTC9AS7F91U/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/2Intro+trees+at+top+-+99B+100A.png?format=2500w)
 
-### **0: The art and science of building societies in silico**
-[PDF Link](https://santafe.edu/research/sfi-press), [GitHub Link](https://santafe.edu/research/sfi-press)
+## Part II: LEARNING TO RUN
+## Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
+*• Algorithm zoo: pedestrian movement, e.g., random walk • Algorithm zoo: group migrations & population dispersals • Simulation scales • Types of validation • What is equifinality?*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-Short description here.
+
+## Chapter 5: Exchange Algorithms: How Do People Trade in Goods,Ideas, and Pathogens? 
+*• Algorithm zoo: economic interactions • Supply & demand, price setting, barter algorithms • Algorithm zoo: cultural evolution • Cultural transmission, biases, innovation algorithms • Algorithm zoo: epidemiological modeling • What is ontology? & How to develop one • The rule of parsimony*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+
+
+## Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
+*• Algorithm zoo: subsistence & resilience • Consumption, subsistence & resilience-strategy algorithms • Foraging algorithms • Population dynamics, evolutionary dynamics & fission–fussion algorithms • What is the tragedy of the commons? • The fundamentals of game theory • Parametrization & model’s input data*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
+
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354014892-ITALZQ8YD7DKXNVQFMDL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/3Chapter1-2_Ucan.png?format=2500w)
 
-### **Part 1: Learning to walk** 
-[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
+## Part III: LEARNING TO FLY
+## Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
+*• Types of spatial data • Tutorial on how to handle GIS data in NetLogo• How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-*1.1:* The foundational steps of building an agent-based model
 
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+## Chapter 8: Modeling with Relational Data: Relationships & Exchange using Network Science
+*• Theory to data modeling spectrum • What is relational data? • Tutorial on NetLogo’s network extension • Fundamentals of network science • How to test the code?*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-*1.2:* Trading up to complex models of economic interactions
 
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
- 
-*1.3:* Reaping the rewards: addressing archaeological questions
+## Chapter 9: Data Analysis: Leveraging Data Science to Explore ABM Results
+*• The principles of experiment design •Tutorial on NetLogo BehaviorSpace • Calibration, sensitivity analysis, parameter sweep • How to analyze output data in Excel, R, or Python? • What is emergence? • Dissemination of ABMs*
+[View Chapter as PDF](https://www.npr.org/)  [View Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015498-8DYV0LU3OLEHBU7T3M9B/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/4Chapter3_Bassiz+89A+.png?format=2500w)
 
-### **Part 2: Learning to run** 
-[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
+## Conclusion
+[View Chapter as PDF](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-*2.1:* Mobility algorithms: How does movement leave its mark?
-
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-*2.2:* Exchange algorithms: How do people trade in goods, ideas, and pathogens?
-
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-*2.3:* Subsistence algorithms: Why do some societies thrive while others fade?
-
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
 
-### **Part 3: Learning to fly** 
-[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
+## Appendix
+[View Chapter as PDF](https://www.npr.org/)  [Back to Top](https://www.npr.org/)
 
-*3.1:* Modeling with spatial data: Bringing the GIS world to ABM
+# Entire Book (PDF)
 
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+# Resources
+# Bibliography
+# About the Authors
+# To Order Book
 
-*3.2:* Modeling with relational data: Relationships and exchange using network science
 
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
 
-*3.3:* Data analysis: Leveraging data science to explore ABM results
-
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016095-NT2EFWWCNU4Y7QNT28ZQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/6Chapter5_Galata-Istanbul.png?format=2500w)
-
-### **4.0: Good models move science forward** 
-[PDF Link](https://santafe.edu/), [GitHub Link](https://santafe.edu/research/sfi-press)
-
-Chapter description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016530-NX5IEOUQC4GLEVRGTTNL/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/7Chapter6_Karanicay30B.png?format=2500w)
-
-## APPENDIX
-[PDF Link](https://santafe.edu/), [Teaching Materials](www.npr.org)
-
-A brief description here. [Models](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
+# Extra code notes below:
 
 ## ADDITIONAL ONLINE RESOURCES
 A brief description here. Assuming a list of links similar to what follows.
