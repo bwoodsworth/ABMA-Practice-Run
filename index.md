@@ -1,6 +1,9 @@
 [Bibliography](#BIBLIOGRAPHY)
 Regular text here. Not sure what will happen.
 
+# HTML ANCHOR ATTEMPT HERE
+<a href"#Bibliography">text</a>
+
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 [Get PDF of Book](https://www.npr.org/)     [Order the Book](https://www.npr.org/)
 
@@ -104,6 +107,7 @@ Additional Resources
 </details>
 
 ### [Bibliography](https://www.npr.org/)
+<a name="Bibliography"></a>
 <details>
 <summary>
 Bibliography
