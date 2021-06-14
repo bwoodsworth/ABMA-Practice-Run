@@ -91,11 +91,14 @@
 <summary>
 Additional Resources
 </summary>
+ 
  A brief description here. Assuming a list of links similar to what follows.
- 1. [Link 1](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
- 2. [Link 2](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
- 3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
- 4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+ <ol>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 1 </a>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 2 </a>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 3 </a>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 4 </a>
+ </ol>
 </details>
 
 ### [Bibliography](https://www.npr.org/)
