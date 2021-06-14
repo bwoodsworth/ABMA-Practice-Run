@@ -156,7 +156,7 @@ Stefani Crabtree
 Iza Romanowska
 </summary>
   
-  ![image](https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+  <img src="https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Squarespace">
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
@@ -168,7 +168,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  ![image](https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+  <img src="https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Squarespace">
            
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
