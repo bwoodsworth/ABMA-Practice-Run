@@ -144,7 +144,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705325008-O1YGEGMQ60OCW3MPDAFJ/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Colin_Wren_375px.jpg?format=750w" alt="Squarespace" align="left">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705325008-O1YGEGMQ60OCW3MPDAFJ/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Colin_Wren_375px.jpg?format=750w" alt="Squarespace" align="left" style="width:300px;height:500px;">
            
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
