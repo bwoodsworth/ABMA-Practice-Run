@@ -111,7 +111,7 @@
 
 <details>
 <summary>
-Additional Resources
+Click here to access the list of additional resources.
 </summary>
  
  A brief description here. Assuming a list of links similar to what follows.
