@@ -136,7 +136,7 @@ Iza Romanowska
   
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695030170-DS2DUE47H4VH12ZQEZJ0/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Iza_Romanowska_600px.jpg?format=750w" alt="Squarespace">
              
-  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
 <p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </p>
@@ -149,7 +149,7 @@ Colin D. Wren
   
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695028610-D3TIIOY1MAGTRC2MV7ZC/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Colin_Wren_600px.jpg?format=750w" alt="Squarespace" align="left">
            
-  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
+  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
 <p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </p>
@@ -167,8 +167,6 @@ Stefani Crabtree
   
 <p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </p>
- 
-<a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>      <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
 </details>
              
 <a name="To Order Book"></a>                 
