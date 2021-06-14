@@ -124,21 +124,7 @@ Additional Resources
 </details>
 
 <a name="Bibliography"></a>
-## Bibliography
-
-<details>
-<summary>
-Bibliography
-</summary>
- 
- Assuming a list of links similar to what follows.
- <ol>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 1 </a> </li>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 2 </a> </li>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 3 </a> </li>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 4 </a> </li>
- </ol>
-</details>
+## [Bibliography](https://www.npr.org/)
 
 <a name="About the Authors"></a>
 ## About the Authors
