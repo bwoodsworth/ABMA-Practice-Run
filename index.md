@@ -16,8 +16,8 @@
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
-<a name="PART I"></a>
-## PART 1:  LEARNING TO WALK
+<a name="PART I: LEARNING TO WALK"></a>
+## PART I:  LEARNING TO WALK
 <a name="Chapter 1"></a>
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
 *• Tutorial in basic NetLogo: agents, procedures and the interface • Definitions of modelling, simulation, algorithm • What is pseudocode? • Model documentation*
@@ -40,7 +40,7 @@
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
 
-<a name="Part II"></a>
+<a name="Part II: LEARNING TO RUN"></a>
 ## Part II: LEARNING TO RUN
 <a name="Chapter 4"></a>
 ### Chapter 4: Mobility Algorithms: How Does Movement Leave Its Mark?
