@@ -99,11 +99,15 @@
 
 <a href="https://www.npr.org/"> Chapter as PDF </a>     <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
+<br>
+
 <a name="Entire Book (PDF)"></a>
-### [Entire Book (PDF)](https://www.npr.org/)
+## [Entire Book (PDF)](https://www.npr.org/)
+
+<br>
 
 <a name="Additional Resources"></a>
-### [Additional Resources](https://www.npr.org/)
+## [Additional Resources](https://www.npr.org/)
 
 <details>
 <summary>
@@ -120,7 +124,7 @@ Additional Resources
 </details>
 
 <a name="Bibliography"></a>
-### [Bibliography](https://www.npr.org/)
+## [Bibliography](https://www.npr.org/)
 
 <details>
 <summary>
@@ -137,7 +141,7 @@ Bibliography
 </details>
 
 <a name="About the Authors"></a>
-### [About the Authors](https://www.npr.org/)
+## [About the Authors](https://www.npr.org/)
 
 <details>
 <summary>
@@ -182,4 +186,4 @@ Colin D. Wren
 </details>
              
 <a name="To Order Book"></a>                 
-### [To Order Book](https://www.npr.org/)
+## [To Order Book](https://www.npr.org/)
