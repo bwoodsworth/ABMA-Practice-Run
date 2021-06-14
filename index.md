@@ -1,7 +1,7 @@
-[create an anchor](#BIBLIOGRAPHY)
+[Bibliography](#BIBLIOGRAPHY)
 Regular text here. Not sure what will happen.
 
-# AGENT-BASED MODELING FOR ARCHAEOLOGY
+(#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
 
 [Get PDF of Book](https://www.npr.org/)     [Order the Book](https://www.npr.org/)
 
@@ -11,7 +11,7 @@ Regular text here. Not sure what will happen.
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
 *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
 
-[Chapter as PDF](https://www.npr.org/)     [Back to Top](https://www.npr.org/)
+[Chapter as PDF](https://www.npr.org/)     [Back to Top](#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
 
 
 
