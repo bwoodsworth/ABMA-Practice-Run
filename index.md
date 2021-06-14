@@ -1,7 +1,7 @@
 [Bibliography](#BIBLIOGRAPHY)
 Regular text here. Not sure what will happen.
 
-(#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
+(#Agent-Based-Modeling-for-Archaeology)
 
 [Get PDF of Book](https://www.npr.org/)     [Order the Book](https://www.npr.org/)
 
