@@ -4,9 +4,6 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017506-758PD0BD4OWX6M4FQROQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/x10+Chapter9+Khoy++26B.png?format=2500w" alt="Nasuh">
 
-<a name="CONTENTS"></a>
-## CONTENTS
-
 <a name="INTRODUCTION"></a>
 ### INTRODUCTION: The Art & Science of Building Societies in Silico
 *• Why simulation? • Why agent-based modeling? • What is complexity science? • Brief history of ABM & ABM applications in archaeology • The modeling framework: NetLogo • Structure of the book*
