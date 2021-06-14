@@ -124,7 +124,7 @@ Additional Resources
 </details>
 
 <a name="Bibliography"></a>
-## [Bibliography](https://www.npr.org/)
+## Bibliography
 
 <details>
 <summary>
