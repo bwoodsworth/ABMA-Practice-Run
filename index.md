@@ -16,7 +16,7 @@
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
-<a name="PART I: LEARNING TO WALK"></a>
+<a name="Part I: LEARNING TO WALK"></a>
 ## PART I:  LEARNING TO WALK
 <a name="Chapter 1"></a>
 ### Chapter 1: The Foundational Steps of Building an Agent-Based Model
@@ -65,7 +65,7 @@
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
 
-<a name="Part III"></a>
+<a name="Part III: LEARNING TO FLY"></a>
 ## Part III: LEARNING TO FLY
 <a name="Chapter 7"></a>
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
