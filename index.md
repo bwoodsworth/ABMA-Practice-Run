@@ -81,17 +81,28 @@ Click <a href="#Bibliography">Bibliography</a> to get back to the Bibliography s
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w)
 
 ## Conclusion
+
+<a name="Conclusion"></a>
+
 [Chapter as PDF](https://www.npr.org/)     [Back to Top](#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
 
 
 ![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w)
 
 ## Appendix
+
+<a name="Appendix"></a>
+
 [Chapter as PDF](https://www.npr.org/)     [Back to Top](#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
 
 ### [Entire Book (PDF)](https://www.npr.org/)
 
+<a name="Entire Book (PDF)"></a>
+
 ### [Additional Resources](https://www.npr.org/)
+
+<a name="Additional Resources"></a>
+
 <details>
 <summary>
 Additional Resources
@@ -125,6 +136,9 @@ Bibliography
 </details>
 
 ### [About the Authors](https://www.npr.org/)
+
+<a name="About the Authors"></a>
+
 <details>
 <summary>
 Stefani Crabtree
@@ -163,3 +177,5 @@ Colin D. Wren
              
                        
 ### [To Order Book](https://www.npr.org/)
+
+<a name="To Order Book"></a>
