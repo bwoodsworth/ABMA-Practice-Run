@@ -80,6 +80,10 @@ Click <a href="#Bibliography">Bibliography</a> to get back to the Bibliography s
 
 [Chapter as PDF](https://www.npr.org/)  [Chapter Code Repo on GitHub](https://www.npr.org/)  [Back to Top](#AGENT-BASED-MODELING-FOR-ARCHAEOLOGY)
 
+Click <a href="#Agent-Based Modeling for Archaeology">Back to Top</a> to get back to the Bibliography section.
+
+<a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
+
 
 ### Chapter 6: Subsistence Algorithms: Why Do Some Societies Thrive while Others Fade?
 
