@@ -131,7 +131,7 @@ Click here to see the list of additional resources.
 Iza Romanowska
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695030170-DS2DUE47H4VH12ZQEZJ0/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Iza_Romanowska_600px.jpg?format=750w" alt="Squarespace">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704154528-LFAG0DHZRXJ2RAKF6U9V/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Iza_Romanowska_475px.jpg?format=750w" alt="Squarespace">
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
@@ -144,7 +144,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695028610-D3TIIOY1MAGTRC2MV7ZC/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Colin_Wren_600px.jpg?format=750w" alt="Squarespace" align="left">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704153657-E5191XKBC84M2Q1LCZ9F/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Colin_Wren_475px.jpg?format=750w" alt="Squarespace" align="left">
            
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
@@ -158,7 +158,7 @@ Colin D. Wren
 Stefani Crabtree
 </summary>
   
-  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695375272-6IMEI49J1P4VFHLV2ZDG/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Stefani_Crabtree_600px.jpg?format=750w" alt="Squarespace"> 
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623704153725-L6E6JIUAF5CMNSEEEWIW/ke17ZwdGBToddI8pDm48kLT2CeGufx7o_VHe4fvH6HBZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH9-pGmvstD81ND81KFRuGgpAntglxPIsUWIxVg5H0H8QbTxOII7gkqYgAvizxKei4/Stefani_Crabtree_475px.jpg?format=750w" alt="Squarespace"> 
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
