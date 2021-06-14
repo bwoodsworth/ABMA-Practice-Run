@@ -87,6 +87,17 @@
 ### [Entire Book (PDF)](https://www.npr.org/)
 
 ### [Additional Resources](https://www.npr.org/)
+<details>
+<summary>
+Additional Resources
+</summary>
+ A brief description here. Assuming a list of links similar to what follows.
+ 1. [Link 1](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+ 2. [Link 2](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+ 3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+ 4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
+</details>
+
 ### [Bibliography](https://www.npr.org/)
 ### [About the Authors](https://www.npr.org/)
 <details>
@@ -98,8 +109,7 @@ Stefani Crabtree
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
-<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p>
-<a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
+<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p> <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </details>
 
 <details>
@@ -111,8 +121,7 @@ Iza Romanowska
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
-<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p>
-<a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
+<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p> <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </details>
 
 <details>
@@ -124,87 +133,8 @@ Colin D. Wren
            
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
-<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p>
-<a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
+<p> A Pekingese named Wasabi won best in show Sunday night, notching a fifth-ever win for the unmistakable toy breed. A whippet named Bourbon repeated as runner-up. Waddling through a small-but-mighty turn in the ring, Wasabi nabbed U.S. dogdom's most prestigious prize after winning the big American Kennel Club National Championship in 2019.Wasabi came out on top of a finalist pack that also included Mathew the French bulldog, Connor the old English sheepdog, Jade the German shorthaired pointer, Striker the Samoyed, and a West Highland white terrier named Boy. Altogether, 2,500 champion dogs entered the show. [NPR](https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show) </p> <a href="https://www.npr.org/2021/06/13/1006126168/top-dog-pekingese-named-wasabi-wins-westminster-show"> NPR </a>
 </details>
              
                        
 ### [To Order Book](https://www.npr.org/)
-      
-       
-        
-# Extra code notes below:
-
-## ADDITIONAL ONLINE RESOURCES
-A brief description here. Assuming a list of links similar to what follows.
-1. [Link 1](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-2. [Link 2](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-3. [Link 3](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-4. [Link 4](https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html)
-
-## AUTHORS
-
-**STEFANI CRABTREE**
-
-![image](https://qcnr.usu.edu/directory-images/crabtree_stefani.png)
-
-Stefani is a computational archaeologist, field archaeologist, complexity scientist and ethnographer. In addition to being a Complexity Postdoctoral Fellow at the Santa Fe Institute she is currently a fellow of the Center for Research and Interdisciplinarity in Paris, France, holds a position at Utah State University in the Department for Environment and Society, and is a research fellow at Crow Canyon Archaeological Center. Prior to joining SFI, she was a post-doctoral scholar in the Human Environmental Dynamics laboratory at the Pennsylvania State University.
-
-**IZA ROMANOWSKA**
-
-![image](https://aias.au.dk/fileadmin/www.aias.au.dk/Fellows/Fellows_Fall_2020/Fellows_pb/Iza_Romanowska_pp.png)
-
-AIAS-COFUND Fellow at the Aarhus Institute of Advanced Studies, Aarhus University, Denmark, Previously: Senior Researcher at the Barcelona Supercomputing Center
-Iza works within the broad subject of Complexity Science and Archaeological Computing. In her research she uses simulation techniques, especially agent-based modelling, to investigate past processes such as the first human dispersal almost 2 million years ago and the development of the extensive trade networks in the Roman Empire.
-Specialties:  Agent Based Modelling, Simulation, Data Analysis, Complexity Science,  Palaeolithic Archaeology, Human Origins, Lithic Analysis, Roman Trade
-
-**COLIN D. WREN**
-
-![image](https://anthropology.uccs.edu/sites/g/files/kjihxj2236/files/2021-02/colin-profile-556.jpg)
-
-Colin D. Wren is an archaeologist who joined the Department of Anthropology at UCCS in 2015. His training has included a mix of recent northeastern North America (sub-arctic Quebec, 400-4500 years ago) and much older African and Western European archaeology (up to 1.8 million years ago). He has published on various case studies examining the interactions between human society and the environments at local and much broader continental scales. Dr. Wren is interested in reconstructing past mobility behavior, the evolution of complex cognition, human-environment interactions, agent-based modeling, GIS-based landscape archaeology, and more specifically, the role of human perception of the environment in mobility and dispersal.
-
-## CODE BLOCK
-```
-<details>
-  <summary>This is a dropdown!</summary>
-  
-  Putting regular text here to see how it renders.
-  ## Heading  
-  1. A numbered   
-  2. list    
-    * With some   
-    * Sub bullets   
- </details>
-```
-
-# NEW COLLAPSIBLE SECTION
-<details>
-<summary>
-<i>Like this? </i>
-<a href="http://www.ironspider.ca/format_text/fontstyles.htm">
-Useful Source</a>
-</summary>
-<p>It's because the details block is html5. If you want to modify it your best bet is using html5. </p>
-</details>
-
-<details>
-<summary>
-Chapter One
-</summary>
-  <i> Italics here. This is HTML. </i>
-  <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> PDF </a>
-<p> Putting regular text here to see how it renders. </p>
-</details>
-
-<details>
-  <summary>Additional Reading</summary>
-       
-  <p> Investigate the following links, provided by the authors, for some additional reading. </p>
-  <ol>
-    <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 1 </a> </li>
-    <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 2 </a> </li>
-    <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 3 </a> </li>
-    <li> <a href="https://www.nytimes.com/2021/06/10/opinion/psychology-ted-talk.html"> Link 4 </a> </li>
-  <ol>
- </details>
