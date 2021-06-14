@@ -141,7 +141,7 @@ Bibliography
 </details>
 
 <a name="About the Authors"></a>
-## [About the Authors](https://www.npr.org/)
+## About the Authors
 
 <details>
 <summary>
