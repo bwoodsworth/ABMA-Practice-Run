@@ -2,7 +2,7 @@
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 <a href="https://www.npr.org/"> Get PDF of Book </a>     <a href="https://www.npr.org/"> Order the Book </a>
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017506-758PD0BD4OWX6M4FQROQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/x10+Chapter9+Khoy++26B.png?format=2500w) 
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017506-758PD0BD4OWX6M4FQROQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/x10+Chapter9+Khoy++26B.png?format=2500w" alt="Nasuh">
 
 <a name="CONTENTS"></a>
 ## CONTENTS
@@ -14,8 +14,8 @@
 <a href="https://www.npr.org/"> Chapter as PDF </a>     <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w" alt="Nasuh">
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623350954427-ODDFXU5RIFW0PEPNY5NO/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/1TOC+New+Imam+River+42B.png?format=2500w)
 <a name="Part I: LEARNING TO WALK"></a>
 ## PART I:  LEARNING TO WALK
 <a name="Chapter 1"></a>
@@ -36,7 +36,7 @@
 
 <a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w)
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354015737-VYUU01U903HZ4L87UJMQ/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/5Chapter4_99B-100A.png?format=2500w" alt="Nasuh">
 
 <a name="Part II: LEARNING TO RUN"></a>
 ## Part II: LEARNING TO RUN
@@ -61,7 +61,7 @@
 <a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w)
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354016689-CQDWXKNXA2PPV9XBK592/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/8Chapter7_Hamadan+38B.png?format=2500w" alt="Nasuh">
 
 <a name="Part III: LEARNING TO FLY"></a>
 ## Part III: LEARNING TO FLY
@@ -84,7 +84,7 @@
 <a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w)
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017276-MDYF93AQEDBWIWJHV0U6/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyUDcMq-LO-ZJMuIa2SeqaUG_laECe3ULYF42DwVThV6XlHeZwUcWC0fBVux1QdRpk/9Chapter8.png?format=2500w" alt="Squarespace">
 
 <a name="Conclusion"></a>
 ## Conclusion
@@ -92,7 +92,7 @@
 <a href="https://www.npr.org/"> Chapter as PDF </a>     <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
 
-![image](https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w)
+<img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623354017829-YBB8EJTS8LEKBY31SJQG/ke17ZwdGBToddI8pDm48kL_Uk9XwACdsdIGnLLdDW8hZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxVdqelVwHJKCpvenjmjp5eZv2APyPoUY_Chft0dlpPEBrSCsI3TUVKyok1EK8ZEZo/zextra-Tabriz.jpg?format=2500w" alt="Squarespace">
 
 <a name="Appendix"></a>
 ## Appendix
@@ -111,7 +111,7 @@
 
 <details>
 <summary>
-Click here to access the list of additional resources.
+Click here to see the list of additional resources.
 </summary>
  
  A brief description here. Assuming a list of links similar to what follows.
