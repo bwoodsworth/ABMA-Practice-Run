@@ -134,7 +134,7 @@ Additional Resources
 Iza Romanowska
 </summary>
   
-  <img src="https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Squarespace">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695030170-DS2DUE47H4VH12ZQEZJ0/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Iza_Romanowska_600px.jpg?format=750w" alt="Squarespace">
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
@@ -147,7 +147,7 @@ Iza Romanowska
 Colin D. Wren
 </summary>
   
-  <img src="https://images.unsplash.com/photo-1623609236167-2e4223b8e4dd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt="Squarespace" align="left">
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695028610-D3TIIOY1MAGTRC2MV7ZC/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Colin_Wren_600px.jpg?format=750w" alt="Squarespace" align="left">
            
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>
   
@@ -161,7 +161,7 @@ Colin D. Wren
 Stefani Crabtree
 </summary>
   
-  <img src="https://files.slack.com/files-pri/T9UGY1EM8-F024ZFH9X6X/stefani_crabtree_bw.jpg" alt="Squarespace"> 
+  <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623695375272-6IMEI49J1P4VFHLV2ZDG/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/Stefani_Crabtree_600px.jpg?format=750w" alt="Squarespace"> 
              
   <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Twitter </a>     <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Personal website </a>
   
