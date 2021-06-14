@@ -2,7 +2,7 @@
 Regular text here. Not sure what will happen.
 
 # HTML ANCHOR ATTEMPT HERE
-Click <a href="#Bibliography"></a>to get back to the Bibliography section.
+Click <a href="#Bibliography">Bibliography</a>to get back to the Bibliography section.
 
 # AGENT-BASED MODELING FOR ARCHAEOLOGY
 [Get PDF of Book](https://www.npr.org/)     [Order the Book](https://www.npr.org/)
