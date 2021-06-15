@@ -160,7 +160,7 @@ Colin D. Wren
 
 <details>
 <summary>
-Stefani Crabtree
+Stefani A. Crabtree
 </summary>
   
   <img src="https://images.squarespace-cdn.com/content/v1/5d420e5d999d0200013d33c3/1623705324014-Y9LFV2KC712F96HDOVK8/ke17ZwdGBToddI8pDm48kGzPON_icsvEjwfblZQkopNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFVevWQ5V34TyPCRRPSNk4a-xBDubdD_Ir8j66_zrAzJ75koR3GhIhUYezvwycatuo/Stefani_Crabtree_375px.jpg?format=750w" alt="Squarespace" style="width:300px;height:300px;"> 
