@@ -64,7 +64,7 @@
 ## Part III: LEARNING TO FLY
 <a name="Chapter 7"></a>
 ### Chapter 7: Modeling with Spatial Data: Bringing the GIS World to ABM 
-*• Types of spatial data • Tutorial on how to handle GIS data in NetLogo• How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
+*• Types of spatial data • Tutorial on how to handle GIS data in NetLogo • How to model spatial interactions? • Where to find GIS data • Artificial landscapes • Code optimization with the profiler extension*
 
 <a href="https://www.npr.org/"> Chapter as PDF </a>  <a href="https://www.npr.org/"> Chapter Code Repo on GitHub </a>  <a href="#Agent-Based Modeling for Archaeology">Back to Top</a>
 
