@@ -103,12 +103,12 @@
 
 <br>
 
-<a name="Additional Resources"></a>
-## [Additional Resources](https://www.npr.org/)
+<a name="External Resources"></a>
+## [External Resources](https://www.npr.org/)
 
 <details>
 <summary>
-Click here to see the list of additional resources.
+Click here to see the list of external resources.
 </summary>
  
  A brief description here. Assuming a list of links similar to what follows.
