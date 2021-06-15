@@ -111,7 +111,8 @@
 Click here to see the list of external resources.
 </summary>
  <br>
- We could have text here or delete it and rely only on descriptions immediately underneath the links. (Optional line break above.)
+ We could have text here or delete it and rely only on descriptions immediately underneath the links. (Optional line break above and below.)
+ <br>
  <ol>
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 1 </a> </li>
   A description here for Link 1.
