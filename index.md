@@ -115,14 +115,16 @@ Click here to see the list of external resources.
  <br>
  <br>
  <ol>
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 1 </a> </li>
-  A description here for Link 1.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 2 </a> </li>
-  Another description here for Link 2.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 3 </a> </li>
-  Another description here for Link 3.
-  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 4 </a> </li>
-  Another description here for Link 4.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> NetLogo </a> </li>
+  A description here for NetLogo.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Other ABM book. </a> </li>
+  Another description here for the other ABM book.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> mailing group for CIAA </a> </li>
+  Another description here for the mailing group.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Complexity Explorer </a> </li>
+  Another description here for Complexity Explorer.
+  <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> SFI course </a> </li>
+  Another description here for an SFI course.
  </ol>
 </details>
 
