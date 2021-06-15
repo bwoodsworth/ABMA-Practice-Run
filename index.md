@@ -111,15 +111,16 @@
 Click here to see the list of external resources.
 </summary>
  
- A brief description here. Assuming a list of links similar to what follows.
+ We could have text here or delete it and rely only on descriptions immediately underneath the links.
  <ol>
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 1 </a> </li>
-  Another description here for Link 2.
+  A description here for Link 1.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 2 </a> </li>
-  Another description here for Link 3.
+  Another description here for Link 2.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 3 </a> </li>
-  Another description here for Link 4.
+  Another description here for Link 3.
   <li> <a href="https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f"> Link 4 </a> </li>
+  Another description here for Link 4.
  </ol>
 </details>
 
