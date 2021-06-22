@@ -1,8 +1,11 @@
 ---
 ---
-@import"{{ site.theme }}";
-.page-header{
-  color:#000000;
-  background-color:#A067AB;
-  background-image:linear-gradient(120deg,#5073B8,#A067AB);
+@import"{{ jekyll-theme-minimal }}";
+header {
+  img {
+    border-radius: 50%;
+  }
+  p {
+    color: #000000;
+  }
 }
