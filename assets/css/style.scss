@@ -2,17 +2,3 @@
 ---
 @import "{{ site.theme }}";
 
-header {
-  img {
-    border-radius: 50%;
-  }
-  p {
-    color: #000000;
-  }
-  p {
-    text-align: center;
-  }
-  p.view {
-    text-align: center;
-  } 
-}
